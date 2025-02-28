@@ -1,4 +1,3 @@
-# fuel-efficiency
 # Fuel Efficiency Prediction
 
 This project aims to predict the fuel efficiency of vehicles using a machine learning model built with TensorFlow/Keras. The dataset includes features like horsepower, weight, displacement, and more, which are used to predict the fuel efficiency (in miles per gallon, MPG).
